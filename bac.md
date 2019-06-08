@@ -2,6 +2,8 @@
 
 ## Sommaire
 
+
+
 ### Séquence 1
 
 #### Lectures analytiques
@@ -33,6 +35,8 @@
 - Lecture d'Ulysse from Bagdad, Eric-Emmanuel Schmitt, 2008
 - Etude de la photographie de Dorothea Lange "Migrant mother" (1936)
 
+
+
 ### Séquence 2
 
 #### Lectures analytiques
@@ -52,6 +56,8 @@
 #### Autres
 - Lecture de La Belle et la Bête, Mme Leprince de Beaumont, 1757, "Etonnants classiques", GF Flammarion
 - Etude d'un court métrage : "L'île aux fleurs" de Jorge FURTADO
+
+
 
 ### Séquence 3
 
@@ -80,18 +86,37 @@
   - Daniel Mesguish, 2004
 - Sortie cinéma : film Edmond d'Alexis MICHALIK, 2019
 
+
+
 ### Séquence 4
 
 #### Lectures analytiques
 
-- 
+-  T1 - "Ma bohême", Poésies, 1870
+-  T2 - "Le Mal", Poésies, 1870
+-  T3 - "Aube", Illuminations, 1886
 
 #### textes et documents complémentaires
 
-- 
-- 
-  - 
+- "Fonction du poète", Victor HUGO, Les Rayons et les Ombres, 1840
+- "L'Albatros", Ch. BAUDELAIRE, Les Fleurs du mal, 1857
+- "Elévation", Ch. BAUDELAIRE, Les Fleurs du mal, 1857
+- "Toucher l'instant", GRAND CORPS MALADE, Midi 20, 2006
 
 #### Autres
-- 
-- 
+- **Parcours de lecture dans Poésies de RImbaud** (pages 7 à 87 de l'édition)
+- poèmes évoquant la liberté / l'amour / la femme
+- poèmes engagés à visée satirique
+- Etudes d'ensemble
+  - La vie de bohême
+  - Le poète et la nature
+  - Le poète maudit
+  - La lettre dit "du voyant" à Paul Demeny (extrait)
+- Histoire des arts :
+  - La représentation de la bohême
+  - Rimbaud en images :
+    - le portrait de Rimbaud par Carjat, photographie, 1871
+    - collage d'Ernest Pignon-Ernest (d'après le portrait de Carjat), 1978
+    - sculpture d'Ispoutéguy, "L'homme aux semelles devant", 2017
+
+

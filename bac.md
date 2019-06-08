@@ -53,6 +53,30 @@
 - Lecture de La Belle et la Bête, Mme Leprince de Beaumont, 1757, "Etonnants classiques", GF Flammarion
 - Etude d'un court métrage : "L'île aux fleurs" de Jorge FURTADO
 
+### Séquence 3
 
+#### Lectures analytiques
 
+- T1 - Ate I, scène 1 : "Le portrait de Don Juan", l.47 à 79
+- T2 - ACTE I, scène 2 : "L'éloge de l'inconstance", l.39 à 76
+- T3 - Acte III, scène 2 (en entier) : "La scène du pauvre"
+- T4 - Acte V, scène 2 : "L'éloge de l'hypocrisie", l.31 à 71
+
+#### textes et documents complémentaires
+
+- En lien avec l'étude de Dom Juan :
+  - " Préface de Tartuffe", Molière, 1669
+  - "Dom Juan au xenfers", Les Fleurs du Mal, BEAUDELAIRE, 1857
+  - Article de l'Express (08/07/1993) : "Dom Juan et moi, et moi, et moi !" (quatre comédiens parlent du personnage de Don Juan)
+- En lien avec le genre de la tragédie : GT autour du <u>héros tragique</u>
+  - *Le Cid*, CORNEILLE, Acte I, scène 6, 1637
+  - *Cyrano de Bergerac*, Edmond ROSTAND, Acte V, scène 5 (extrait), 1897
+  - Forêts, Wajdi MOUAWAD, "Ludivine Davre", 2006
+  - Fin de partie, Samuel BECKETT, p.52 à 56, 1957
+
+#### Autres
+- En lien avec l'étude de Dom Juan :
+  - Marcel Bluwal, 1965
+  - Daniel Mesguish, 2004
+- Sortie cinéma : film Edmond d'Alexis MICHALIK, 2019
 

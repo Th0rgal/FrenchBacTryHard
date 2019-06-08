@@ -141,13 +141,25 @@
      - Quelques détails physiques à la fin mais très abstraits
    - Un portrait hyperbolique et idéalisé
      - Figure de style récurrente : hyperbole
-     - 
+     - Mise en valeur du pouvoir attractif de la princesse chez les autres -> Accent mis sur sa perfection
 2. La formation de l'héroïne : une éducation moraliste où la mère a une place prépondérante
    - La place centrale de la mère dans l'éducation de  la jeune fille
+     - Mme de Chartres -> sujet de tous les verbes
+     - Education moderne et orientée (les dangers de l'amour)
+     - répétitions pour imprégner la jeune fille de la vision de la mère
    - L'opposition de l'amour et de la vertu
+     - gravitation de mots opposés (ex amour avec infidélité, tromperies, malheurs, etc)
+     - la raison doit être supérieure aux sentiments
+     - définition restrictive du bonheur de la femme
 3. Une analyse de la société
    - Une vision de la cour : la prépondérance du paraître
+     - Un lieu où règne :
+       - Le beau monde (caractérisé par la beauté de ses membres)
+       - la prépondérance du paraître (champ lexical de la vue)
    - Une vision pessimiste des hommes
+     - Portrait peu flatteur des hommes à travers le discours de la mère
+     - accumulation en gradation des "pêchés" des hommes
+     - vision opposant la femme (bonheur restrictif) et l'homme (liberté sans frein)
 
 
 

@@ -104,7 +104,7 @@
 - "Toucher l'instant", GRAND CORPS MALADE, Midi 20, 2006
 
 #### Autres
-- **Parcours de lecture dans Poésies de RImbaud** (pages 7 à 87 de l'édition)
+- **Parcours de lecture dans Poésies de Rimbaud** (pages 7 à 87 de l'édition)
 - poèmes évoquant la liberté / l'amour / la femme
 - poèmes engagés à visée satirique
 - Etudes d'ensemble
@@ -118,5 +118,38 @@
     - le portrait de Rimbaud par Carjat, photographie, 1871
     - collage d'Ernest Pignon-Ernest (d'après le portrait de Carjat), 1978
     - sculpture d'Ispoutéguy, "L'homme aux semelles devant", 2017
+
+
+
+## El famosa "bouillie d'informations à recracher"
+
+
+
+### Séquence I
+
+#### T1 - Mme de La Fayette, La princesse de Clèves (1678)
+
+##### Problématique
+- Qu'est-ce que ce portrait nous montre de l'héroïne et du monde dans lequel elle évolue ?
+
+##### Structure (niquée) de LA + arguments
+
+1. Un portrait à la fois suggestif et idéalisé
+   - Un portrait suggestif
+     - pas de nom de l'héroïne en ouverture du portrait
+     - Description peu détaillée de l'héroïne à travers une métonymie
+     - Quelques détails physiques à la fin mais très abstraits
+   - Un portrait hyperbolique et idéalisé
+     - Figure de style récurrente : hyperbole
+     - 
+2. La formation de l'héroïne : une éducation moraliste où la mère a une place prépondérante
+   - La place centrale de la mère dans l'éducation de  la jeune fille
+   - L'opposition de l'amour et de la vertu
+3. Une analyse de la société
+   - Une vision de la cour : la prépondérance du paraître
+   - Une vision pessimiste des hommes
+
+
+
 
 

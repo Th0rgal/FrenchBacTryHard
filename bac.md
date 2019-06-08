@@ -7,7 +7,6 @@
 #### Lectures analytiques
 
 - T1 - Mme de La Fayette, La princesse de Clèves (1678)
-
 - T2 - Choderlos de Laclos, *Les liaisons dangereuses* (1782)
 - T3 - Maupassant, Une vie (1883), chapitre VI (extrait)
 - T4 - Marguerite Duras, L'amant, 1981, extrait ("La scène de rencontre")
@@ -37,4 +36,23 @@
 ### Séquence 2
 
 #### Lectures analytiques
+
+- T1 - Victor Hugo, "Discours sur la misère", (extrait) 1849
+- T2 - Voltaire, " Le Mondain", (vers 1 à 43), 1736
+- T3 - Michel Tournier, "La fin de Robinson Crusoé", (nouvelle en intégralité), Le Coq de bruyère, 1978
+
+#### textes et documents complémentaires
+
+- Les quatres âges de l'humanité, Ovide, Les Métamorphoses (Ier s. ap JC)
+- Le bonheur en chansons :
+  - "La complainte du progrès", Boris VIAN, 1956
+  - "Foule sentimentale", Alain SOUCHON, 1993
+  - "Bonheur", Claude NOUGARO, 2004
+
+#### Autres
+- Lecture de La Belle et la Bête, Mme Leprince de Beaumont, 1757, "Etonnants classiques", GF Flammarion
+- Etude d'un court métrage : "L'île aux fleurs" de Jorge FURTADO
+
+
+
 

@@ -19,7 +19,7 @@
   - La Princesse de Clèves, Mme de La Fayette (1678)
   - L'Education sentimentale, Gustave Flaubert (1869)
 
-- Dossier de textes (par ordre  chronologique) :
+- Dossier de textes (par ordre  chronologique)
 
   - "Le mythe de Pandore" - HESIODE, Les Travaux et les jours (VIIème s av JC)
   - Saint-Paul, Epîtres (extraits) (1er siècle de notre ère)
@@ -64,7 +64,7 @@
 
 #### textes et documents complémentaires
 
-- En lien avec l'étude de Dom Juan :
+- En lien avec l'étude de Dom Juan
   - " Préface de Tartuffe", Molière, 1669
   - "Dom Juan au xenfers", Les Fleurs du Mal, BEAUDELAIRE, 1857
   - Article de l'Express (08/07/1993) : "Dom Juan et moi, et moi, et moi !" (quatre comédiens parlent du personnage de Don Juan)
@@ -75,8 +75,23 @@
   - Fin de partie, Samuel BECKETT, p.52 à 56, 1957
 
 #### Autres
-- En lien avec l'étude de Dom Juan :
+- En lien avec l'étude de Dom Juan
   - Marcel Bluwal, 1965
   - Daniel Mesguish, 2004
 - Sortie cinéma : film Edmond d'Alexis MICHALIK, 2019
 
+### Séquence 4
+
+#### Lectures analytiques
+
+- 
+
+#### textes et documents complémentaires
+
+- 
+- 
+  - 
+
+#### Autres
+- 
+- 

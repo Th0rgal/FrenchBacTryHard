@@ -25,7 +25,7 @@
 
   - "Le mythe de Pandore" - HESIODE, Les Travaux et les jours (VIIème s av JC)
   - Saint-Paul, Epîtres (extraits) (1er siècle de notre ère)
-  - L'ECole des femmes, MOLIERE (1662), extrait de la tirade d'Arnolphe, Acte III, scène 2 (vers 695, 738)
+  - L'Ecole des femmes, MOLIERE (1662), extrait de la tirade d'Arnolphe, Acte III, scène 2 (vers 695, 738)
   - De l'Education des femmes, LACLOS, (extrait), 1738
   - Déclaration des droits de la femme et de la citoyenne, OLYMPE DE GOUGES, 1791
   - Le Deuxième sexe, Simone de BEAUVOIR, (extrait), 1949
@@ -141,13 +141,44 @@
      - Quelques détails physiques à la fin mais très abstraits
    - Un portrait hyperbolique et idéalisé
      - Figure de style récurrente : hyperbole
-     - 
+     - Mise en valeur du pouvoir attractif de la princesse chez les autres -> Accent mis sur sa perfection
 2. La formation de l'héroïne : une éducation moraliste où la mère a une place prépondérante
    - La place centrale de la mère dans l'éducation de  la jeune fille
+     - Mme de Chartres -> sujet de tous les verbes
+     - Education moderne et orientée (les dangers de l'amour)
+     - répétitions pour imprégner la jeune fille de la vision de la mère
    - L'opposition de l'amour et de la vertu
+     - gravitation de mots opposés (ex amour avec infidélité, tromperies, malheurs, etc)
+     - la raison doit être supérieure aux sentiments
+     - définition restrictive du bonheur de la femme
 3. Une analyse de la société
    - Une vision de la cour : la prépondérance du paraître
+     - Un lieu où règne :
+       - Le beau monde (caractérisé par la beauté de ses membres)
+       - la prépondérance du paraître (champ lexical de la vue)
    - Une vision pessimiste des hommes
+     - Portrait peu flatteur des hommes à travers le discours de la mère
+     - accumulation en gradation des "pêchés" des hommes
+     - vision opposant la femme (bonheur restrictif) et l'homme (liberté sans frein)
+
+
+
+#### T2 - Choderlos de Laclos, *Les liaisons dangereuses* (1782)
+
+##### Problématique
+
+- En quoi ce texte propose-t-il un portrait de femme singulier ?
+
+##### Structure (niquée) de LA + arguments
+
+1. L'éducation d'une femme exceptionnelle
+   - Une éducation qu'elle prend en charge elle-même
+   - La critique de l'éducation traditionnelle
+   - Une éducation qui se fait par étapes
+2. Une libertine consciente de sa supériorité
+   - L'exaltation du moi
+   - La dissimulation comme principe premier
+   - Une héroïne révoltée ?
 
 
 

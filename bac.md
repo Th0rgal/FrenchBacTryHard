@@ -160,7 +160,6 @@
      - Portrait peu flatteur des hommes à travers le discours de la mère
      - accumulation en gradation des "pêchés" des hommes
      - vision opposant la femme (bonheur restrictif) et l'homme (liberté sans frein)
-<<<<<<< HEAD
 
 
 

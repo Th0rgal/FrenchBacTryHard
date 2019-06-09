@@ -179,10 +179,22 @@
    - La critique de l'éducation traditionnelle
      - paraphrase (normalement on a pas le droit mais vu que c'est l'oral et que c'est ce que la prof a fait dans la LA ¯\_(ツ)_/¯)
    - Une éducation qui se fait par étapes
+     - 1ère étape -> observer et réfléchir
+     - 2ème étape -> apprentissage de la dissimulation et du contrôle de soi
+       - conséquence -> acquisition d'une "puissance" sur soi-même
+     - 3ème étape -> mise en pratique
+     - Conclusion -> rigueur scientifique avec le champ lexical du savoir et de la pensée
 2. Une libertine consciente de sa supériorité
    - L'exaltation du moi
+     - Omniprésence de la 1ère personne -> **égo démesuré**
+     - comparaison avec les autres qui confirme sa supériorité
+  - survalorisée par l'utilisation du vocab de la conquête militaire
    - La dissimulation comme principe premier
+     - champ lexical de la dissimulation
+     - champ lexical du regard
+     - champ lexical de l'apparence
    - Une héroïne révoltée ?
+     - Elle remet en question le statut des femmes mais les accuse d'en être responsable
 
 
 

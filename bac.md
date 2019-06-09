@@ -121,7 +121,7 @@
 
 
 
-## El famosa "bouillie d'informations à recracher"
+## La famosa "bouillie d'informations à recracher"
 
 
 
@@ -160,6 +160,7 @@
      - Portrait peu flatteur des hommes à travers le discours de la mère
      - accumulation en gradation des "pêchés" des hommes
      - vision opposant la femme (bonheur restrictif) et l'homme (liberté sans frein)
+<<<<<<< HEAD
 
 
 
@@ -179,8 +180,6 @@
    - L'exaltation du moi
    - La dissimulation comme principe premier
    - Une héroïne révoltée ?
-
-
 
 
 

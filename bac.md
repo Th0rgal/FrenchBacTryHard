@@ -173,7 +173,11 @@
 
 1. L'éducation d'une femme exceptionnelle
    - Une éducation qu'elle prend en charge elle-même
+     - Champ lexical de l'éducation
+     - Utilisation de la première personne -> autodidacte
+     - je me suis travaillée -> réflexivité de l'action (elle est le matériau **et** le maître)
    - La critique de l'éducation traditionnelle
+     - paraphrase (normalement on a pas le droit mais vu que c'est l'oral et que c'est ce que la prof a fait dans la LA ¯\_(ツ)_/¯)
    - Une éducation qui se fait par étapes
 2. Une libertine consciente de sa supériorité
    - L'exaltation du moi

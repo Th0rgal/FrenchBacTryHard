@@ -188,13 +188,15 @@
    - L'exaltation du moi
      - Omniprésence de la 1ère personne -> **égo démesuré**
      - comparaison avec les autres qui confirme sa supériorité
-  - survalorisée par l'utilisation du vocab de la conquête militaire
-   - La dissimulation comme principe premier
-     - champ lexical de la dissimulation
-     - champ lexical du regard
-     - champ lexical de l'apparence
-   - Une héroïne révoltée ?
-     - Elle remet en question le statut des femmes mais les accuse d'en être responsable
+     
+     - survalorisée par l'utilisation du vocab de la conquête militaire
+    - La dissimulation comme principe premier
+      - champ lexical de la dissimulation
+      - champ lexical du regard
+      - champ lexical de l'apparence
+    - Une héroïne révoltée ?
+      
+      - Elle remet en question le statut des femmes mais les accuse d'en être responsable
 
 
 

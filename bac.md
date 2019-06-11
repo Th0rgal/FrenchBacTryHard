@@ -197,7 +197,7 @@
      - Utilisation de la première personne -> autodidacte
      - je me suis travaillée -> réflexivité de l'action (elle est le matériau **et** le maître)
    - La critique de l'éducation traditionnelle
-     - paraphrase (normalement on a pas le droit mais vu que c'est l'oral et que c'est ce que la prof a fait dans la LA ¯\_(ツ)_/¯)
+     - paraphrase (normalement on a pas le droit mais vu que c'est l'oral et que c'est ce que la prof a fait dans la LA ``¯\_(ツ)_/¯`` )
    - Une éducation qui se fait par étapes
      - 1ère étape -> observer et réfléchir
      - 2ème étape -> apprentissage de la dissimulation et du contrôle de soi
@@ -208,14 +208,12 @@
    - L'exaltation du moi
      - Omniprésence de la 1ère personne -> **égo démesuré**
      - comparaison avec les autres qui confirme sa supériorité
-     
      - survalorisée par l'utilisation du vocab de la conquête militaire
     - La dissimulation comme principe premier
       - champ lexical de la dissimulation
       - champ lexical du regard
       - champ lexical de l'apparence
     - Une héroïne révoltée ?
-      
       - Elle remet en question le statut des femmes mais les accuse d'en être responsable
 
 
@@ -230,23 +228,28 @@
 
 ##### Structure (niquée) de LA + arguments
 
-1. Un portrait à la fois suggestif et idéalisé
-   - Un portrait suggestif
-     - pas de nom de l'héroïne en ouverture du portrait
-     - Description peu détaillée de l'héroïne à travers une métonymie
-     - Quelques détails physiques à la fin mais très abstraits
-   - Un portrait hyperbolique et idéalisé
-     - Figure de style récurrente : hyperbole
-     - Mise en valeur du pouvoir attractif de la princesse chez les autres -> Accent mis sur sa perfection
-2. La formation de l'héroïne : une éducation moraliste où la mère a une place prépondérante
-   - La place centrale de la mère dans l'éducation de  la jeune fille
-     - Mme de Chartres -> sujet de tous les verbes
-     - Education moderne et orientée (les dangers de l'amour)
-     - répétitions pour imprégner la jeune fille de la vision de la mère
-   - L'opposition de l'amour et de la vertu
-     - gravitation de mots opposés (ex amour avec infidélité, tromperies, malheurs, etc)
-     - la raison doit être supérieure aux sentiments
-     - définition restrictive du bonheur de la femme
+1. Un incipit en **apparence traditionnel** : présentation du personnage principal dans un cadre banal et une activité quotidienne, la toilette
+   - Un cadre banal décrit avec précision
+     - On évoque des objets usels (champs lexicaux) et/ou luxueux
+     - Souci de précision et d'exactitude -> mise en emphase des adjectifs et des compléments
+   - Le personnage à sa toilette : un début in medias res et un portrait en actes
+     - Impression d'un rituel avec un ordre précis
+     - Soin extrême et culture du corps à travers les métaphores  qui renvoient au jardinage
+   - Un portrait physique et moral
+     - Relever la description physique
+     - Parallélisme + autres figures -> aimable et enjoué
+2. **Un incipit surprenant et ludique : création d'un registre merveilleux** qui vient contredire le réalisme apparent du texte vu plus haut
+   - Un personnage de conte de fées un peu désincarné :
+     - Un personnage qui n'a pas de nom de famille, seulement désigné par son prénom
+     - Un portrait plus ébauché que complet
+     - Inconsistance renforcée par l'inaction du personnage : "le reste du temps il dormait" (l.19)
+     - Seulement occupé à des relations sociales qui semblent superficielles
+   - ** univers régi par des lois étranges, différentes du nôtre**
+     - Citer des exemples de choses étranges
+   - **La fantaisie du langage au service d'un effet comique et parodique**
+     - Utilisation excessive des compléments du nom et adjectifs -> jeu avec la langue
+     - Comparaison de Colin avec un acteur peu connu -> humour?
+     - "Ce nom lui convenait à peu près" -> parodie des romans réalistes
 
 
 

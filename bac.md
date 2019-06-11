@@ -63,8 +63,8 @@
 
 #### Lectures analytiques
 
-- T1 - Ate I, scène 1 : "Le portrait de Don Juan", l.47 à 79
-- T2 - ACTE I, scène 2 : "L'éloge de l'inconstance", l.39 à 76
+- T1 - Acte I, scène 1 : "Le portrait de Don Juan", l.47 à 79
+- T2 - Acte I, scène 2 : "L'éloge de l'inconstance", l.39 à 76
 - T3 - Acte III, scène 2 (en entier) : "La scène du pauvre"
 - T4 - Acte V, scène 2 : "L'éloge de l'hypocrisie", l.31 à 71
 
@@ -118,6 +118,26 @@
     - le portrait de Rimbaud par Carjat, photographie, 1871
     - collage d'Ernest Pignon-Ernest (d'après le portrait de Carjat), 1978
     - sculpture d'Ispoutéguy, "L'homme aux semelles devant", 2017
+
+
+
+### Séquence 5
+
+#### Lectures analytiques
+
+- T1 - Incipit (p 31 à 33)
+- T2 - "Le premier rendez-vous amoureux" (p 92 à 96)
+- T3 - "L'épilogue" (chapitre 68, p 332 à 334)
+
+#### textes et documents complémentaires
+
+- "Je voudrais pas crever", Boris Vian, *Je voudrais pas crever*, 1962
+- "Je crains pas ça tellment", Raymond Queneau, *L'instant fatal*, 1948
+- "Un jour", Boris Vian, *Je voudrais pas crever* 1962
+
+#### Autres
+- Ecoute de "Chloé (Song of the swamp)"  de Duke Ellington, 1940
+- Visionnage d'extraits du film de Michel Gondry, L'*Ecume des jours*, 2013
 
 
 
@@ -197,6 +217,36 @@
     - Une héroïne révoltée ?
       
       - Elle remet en question le statut des femmes mais les accuse d'en être responsable
+
+
+
+### Séquence 5
+
+#### T1 - Incipit
+
+##### Problématique
+
+- En quoi cet incipit est-il surprenant malgré une apparence traditionnelle/conventionnelle ?
+
+##### Structure (niquée) de LA + arguments
+
+1. Un portrait à la fois suggestif et idéalisé
+   - Un portrait suggestif
+     - pas de nom de l'héroïne en ouverture du portrait
+     - Description peu détaillée de l'héroïne à travers une métonymie
+     - Quelques détails physiques à la fin mais très abstraits
+   - Un portrait hyperbolique et idéalisé
+     - Figure de style récurrente : hyperbole
+     - Mise en valeur du pouvoir attractif de la princesse chez les autres -> Accent mis sur sa perfection
+2. La formation de l'héroïne : une éducation moraliste où la mère a une place prépondérante
+   - La place centrale de la mère dans l'éducation de  la jeune fille
+     - Mme de Chartres -> sujet de tous les verbes
+     - Education moderne et orientée (les dangers de l'amour)
+     - répétitions pour imprégner la jeune fille de la vision de la mère
+   - L'opposition de l'amour et de la vertu
+     - gravitation de mots opposés (ex amour avec infidélité, tromperies, malheurs, etc)
+     - la raison doit être supérieure aux sentiments
+     - définition restrictive du bonheur de la femme
 
 
 

@@ -253,3 +253,65 @@
 
 
 
+#### T2 - Le premier rendez-vous amoureux
+
+##### Problématique
+
+- De quelle manière Boris Vian renouvelle-t-il la scène traditionnelle de rendez-vous amoureux ?
+
+#### Structure (niquée) de la LA + arguments
+
+1. Une scène de rencontre féérique
+    - L'innocence des protagonistes
+      - Gêne et timidité -> vouvoiements, manifestation physique (rougissements)
+      - Nervosité -> Colin anticipe les réactions de Cholé par un monologue intérieur
+      - Gradation ascendante du rire de Chloé qui montre son plaisir d'être avec Colin
+      - Jeunesse -> syntaxe défectueuse ou maladroite
+    - L'univers sécurisant d'un monde merveilleux
+      - Un décor stéréotypé -> énumérations des éléments
+      - Intemporalité des éléments -> majuscule pour chaque élément
+      - cocon -> la rondeur de la pièce
+      - sécurité/cocon -> petit nuage rose personnifié + humour expression être sur un petit nuage
+2. Un univers déroutant et inquiétant qui finit par créer un effet de rupture
+    - La fantaisie verbale crée un univers décalé et étrange
+      - Décrire l'univers pété et le mettre en relation avec les jeux du langage
+    - ... qui finit par devenir inquiétant
+      - intrusion de différents éléments inquiétants (citer des exemples)
+      - indifférence devant la mort et la souffrance
+
+
+
+#### T3 - Epilogue
+
+##### Problématique
+
+- Comment comprendre cet épilogue qui semble en rupture avec le reste du roman et quelle réflexion y propose-t-il ?
+
+#### Structure (niquée) de la LA + arguments
+
+1. Une fable naïve teintée de fantaisie
+    - Un récit aux allures de fable
+      - histoire complète avec un schéma isolé du récit (point de départ + aboutissement)
+      - le chat et la souris (animaux personnifiés) sont les personnages principaux du texte
+    - ... mais une fable détournée
+      - Rapport inhabituel des deux protagonistes
+        - indifférence du chat qui refuse de tuer la souris
+        - incompréhension du chat par rapport à la demande de la souris
+        - il s'y résout par compassion car il ne veut pas qu'elle souffre
+        - rapport prédateur/proie renversé
+      - Dénouement non explicite
+        - Pas de morale
+        - Libre-arbitre du lecteur
+2. Le mélange des registres crée la fantaisie du texte
+    - Une situation pathétique -> petite souris, fragile mais déterminée à mourir
+    - Le registre tragique 
+      - mort plus suggérée que présente
+      - tragique réinventé car la gravité est teintée d'une pointe de fantaisie plus légère
+    - L'humour noir, politesse du désespoir
+      - dédramatise la mort de la souris
+      - contraste entre langage familier et solennité du moment
+      - pas d'effet déclamatoire ou de supplication
+      - humour de la réplique de la souris avec le requin -> la mort arrive gaiement
+
+
+

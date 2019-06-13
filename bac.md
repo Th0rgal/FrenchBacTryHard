@@ -155,31 +155,31 @@
 ##### Structure (niquée) de LA + arguments
 
 1. Un portrait à la fois suggestif et idéalisé
-   - Un portrait suggestif
-     - pas de nom de l'héroïne en ouverture du portrait
-     - Description peu détaillée de l'héroïne à travers une métonymie
-     - Quelques détails physiques à la fin mais très abstraits
-   - Un portrait hyperbolique et idéalisé
-     - Figure de style récurrente : hyperbole
-     - Mise en valeur du pouvoir attractif de la princesse chez les autres -> Accent mis sur sa perfection
+  - Un portrait suggestif
+    - pas de nom de l'héroïne en ouverture du portrait
+    - Description peu détaillée de l'héroïne à travers une métonymie
+    - Quelques détails physiques à la fin mais très abstraits
+  - Un portrait hyperbolique et idéalisé
+    - Figure de style récurrente : hyperbole
+    - Mise en valeur du pouvoir attractif de la princesse chez les autres -> Accent mis sur sa perfection
 2. La formation de l'héroïne : une éducation moraliste où la mère a une place prépondérante
-   - La place centrale de la mère dans l'éducation de  la jeune fille
-     - Mme de Chartres -> sujet de tous les verbes
-     - Education moderne et orientée (les dangers de l'amour)
-     - répétitions pour imprégner la jeune fille de la vision de la mère
-   - L'opposition de l'amour et de la vertu
-     - gravitation de mots opposés (ex amour avec infidélité, tromperies, malheurs, etc)
-     - la raison doit être supérieure aux sentiments
-     - définition restrictive du bonheur de la femme
+  - La place centrale de la mère dans l'éducation de  la jeune fille
+    - Mme de Chartres -> sujet de tous les verbes
+    - Education moderne et orientée (les dangers de l'amour)
+    - répétitions pour imprégner la jeune fille de la vision de la mère
+  - L'opposition de l'amour et de la vertu
+    - gravitation de mots opposés (ex amour avec infidélité, tromperies, malheurs, etc)
+    - la raison doit être supérieure aux sentiments
+    - définition restrictive du bonheur de la femme
 3. Une analyse de la société
-   - Une vision de la cour : la prépondérance du paraître
-     - Un lieu où règne :
-       - Le beau monde (caractérisé par la beauté de ses membres)
-       - la prépondérance du paraître (champ lexical de la vue)
-   - Une vision pessimiste des hommes
-     - Portrait peu flatteur des hommes à travers le discours de la mère
-     - accumulation en gradation des "pêchés" des hommes
-     - vision opposant la femme (bonheur restrictif) et l'homme (liberté sans frein)
+  - Une vision de la cour : la prépondérance du paraître
+    - Un lieu où règne :
+      - Le beau monde (caractérisé par la beauté de ses membres)
+      - la prépondérance du paraître (champ lexical de la vue)
+  - Une vision pessimiste des hommes
+    - Portrait peu flatteur des hommes à travers le discours de la mère
+    - accumulation en gradation des "pêchés" des hommes
+    - vision opposant la femme (bonheur restrictif) et l'homme (liberté sans frein)
 
 
 
@@ -192,29 +192,29 @@
 ##### Structure (niquée) de LA + arguments
 
 1. L'éducation d'une femme exceptionnelle
-   - Une éducation qu'elle prend en charge elle-même
-     - Champ lexical de l'éducation
-     - Utilisation de la première personne -> autodidacte
-     - je me suis travaillée -> réflexivité de l'action (elle est le matériau **et** le maître)
-   - La critique de l'éducation traditionnelle
-     - paraphrase (normalement on a pas le droit mais vu que c'est l'oral et que c'est ce que la prof a fait dans la LA ``¯\_(ツ)_/¯`` )
-   - Une éducation qui se fait par étapes
-     - 1ère étape -> observer et réfléchir
-     - 2ème étape -> apprentissage de la dissimulation et du contrôle de soi
-       - conséquence -> acquisition d'une "puissance" sur soi-même
-     - 3ème étape -> mise en pratique
-     - Conclusion -> rigueur scientifique avec le champ lexical du savoir et de la pensée
+  - Une éducation qu'elle prend en charge elle-même
+    - Champ lexical de l'éducation
+    - Utilisation de la première personne -> autodidacte
+    - je me suis travaillée -> réflexivité de l'action (elle est le matériau **et** le maître)
+  - La critique de l'éducation traditionnelle
+    - paraphrase (normalement on a pas le droit mais vu que c'est l'oral et que c'est ce que la prof a fait dans la LA ``¯\_(ツ)_/¯`` )
+  - Une éducation qui se fait par étapes
+    - 1ère étape -> observer et réfléchir
+    - 2ème étape -> apprentissage de la dissimulation et du contrôle de soi
+      - conséquence -> acquisition d'une "puissance" sur soi-même
+    - 3ème étape -> mise en pratique
+    - Conclusion -> rigueur scientifique avec le champ lexical du savoir et de la pensée
 2. Une libertine consciente de sa supériorité
-   - L'exaltation du moi
-     - Omniprésence de la 1ère personne -> **égo démesuré**
-     - comparaison avec les autres qui confirme sa supériorité
-     - survalorisée par l'utilisation du vocab de la conquête militaire
-    - La dissimulation comme principe premier
-      - champ lexical de la dissimulation
-      - champ lexical du regard
-      - champ lexical de l'apparence
-    - Une héroïne révoltée ?
-      - Elle remet en question le statut des femmes mais les accuse d'en être responsable
+  - L'exaltation du moi
+    - Omniprésence de la 1ère personne -> **égo démesuré**
+    - comparaison avec les autres qui confirme sa supériorité
+    - survalorisée par l'utilisation du vocab de la conquête militaire
+  - La dissimulation comme principe premier
+    - champ lexical de la dissimulation
+    - champ lexical du regard
+    - champ lexical de l'apparence
+  - Une héroïne révoltée ?
+    - Elle remet en question le statut des femmes mais les accuse d'en être responsable
 
 
 
@@ -229,27 +229,27 @@
 ##### Structure (niquée) de LA + arguments
 
 1. Un incipit en **apparence traditionnel** : présentation du personnage principal dans un cadre banal et une activité quotidienne, la toilette
-   - Un cadre banal décrit avec précision
-     - On évoque des objets usels (champs lexicaux) et/ou luxueux
-     - Souci de précision et d'exactitude -> mise en emphase des adjectifs et des compléments
-   - Le personnage à sa toilette : un début in medias res et un portrait en actes
-     - Impression d'un rituel avec un ordre précis
-     - Soin extrême et culture du corps à travers les métaphores  qui renvoient au jardinage
-   - Un portrait physique et moral
-     - Relever la description physique
-     - Parallélisme + autres figures -> aimable et enjoué
+  - Un cadre banal décrit avec précision
+    - On évoque des objets usels (champs lexicaux) et/ou luxueux
+    - Souci de précision et d'exactitude -> mise en emphase des adjectifs et des compléments
+  - Le personnage à sa toilette : un début in medias res et un portrait en actes
+    - Impression d'un rituel avec un ordre précis
+    - Soin extrême et culture du corps à travers les métaphores  qui renvoient au jardinage
+  - Un portrait physique et moral
+    - Relever la description physique
+    - Parallélisme + autres figures -> aimable et enjoué
 2. **Un incipit surprenant et ludique : création d'un registre merveilleux** qui vient contredire le réalisme apparent du texte vu plus haut
-   - Un personnage de conte de fées un peu désincarné :
-     - Un personnage qui n'a pas de nom de famille, seulement désigné par son prénom
-     - Un portrait plus ébauché que complet
-     - Inconsistance renforcée par l'inaction du personnage : "le reste du temps il dormait" (l.19)
-     - Seulement occupé à des relations sociales qui semblent superficielles
-   - ** univers régi par des lois étranges, différentes du nôtre**
-     - Citer des exemples de choses étranges
-   - **La fantaisie du langage au service d'un effet comique et parodique**
-     - Utilisation excessive des compléments du nom et adjectifs -> jeu avec la langue
-     - Comparaison de Colin avec un acteur peu connu -> humour?
-     - "Ce nom lui convenait à peu près" -> parodie des romans réalistes
+  - Un personnage de conte de fées un peu désincarné :
+    - Un personnage qui n'a pas de nom de famille, seulement désigné par son prénom
+    - Un portrait plus ébauché que complet
+    - Inconsistance renforcée par l'inaction du personnage : "le reste du temps il dormait" (l.19)
+    - Seulement occupé à des relations sociales qui semblent superficielles
+  - ** univers régi par des lois étranges, différentes du nôtre**
+    - Citer des exemples de choses étranges
+  - **La fantaisie du langage au service d'un effet comique et parodique**
+    - Utilisation excessive des compléments du nom et adjectifs -> jeu avec la langue
+    - Comparaison de Colin avec un acteur peu connu -> humour?
+    - "Ce nom lui convenait à peu près" -> parodie des romans réalistes
 
 
 
@@ -262,22 +262,22 @@
 #### Structure (niquée) de la LA + arguments
 
 1. Une scène de rencontre féérique
-    - L'innocence des protagonistes
-      - Gêne et timidité -> vouvoiements, manifestation physique (rougissements)
-      - Nervosité -> Colin anticipe les réactions de Cholé par un monologue intérieur
-      - Gradation ascendante du rire de Chloé qui montre son plaisir d'être avec Colin
-      - Jeunesse -> syntaxe défectueuse ou maladroite
-    - L'univers sécurisant d'un monde merveilleux
-      - Un décor stéréotypé -> énumérations des éléments
-      - Intemporalité des éléments -> majuscule pour chaque élément
-      - cocon -> la rondeur de la pièce
-      - sécurité/cocon -> petit nuage rose personnifié + humour expression être sur un petit nuage
+  - L'innocence des protagonistes
+    - Gêne et timidité -> vouvoiements, manifestation physique (rougissements)
+    - Nervosité -> Colin anticipe les réactions de Cholé par un monologue intérieur
+    - Gradation ascendante du rire de Chloé qui montre son plaisir d'être avec Colin
+    - Jeunesse -> syntaxe défectueuse ou maladroite
+  - L'univers sécurisant d'un monde merveilleux
+    - Un décor stéréotypé -> énumérations des éléments
+    - Intemporalité des éléments -> majuscule pour chaque élément
+    - cocon -> la rondeur de la pièce
+    - sécurité/cocon -> petit nuage rose personnifié + humour expression être sur un petit nuage
 2. Un univers déroutant et inquiétant qui finit par créer un effet de rupture
-    - La fantaisie verbale crée un univers décalé et étrange
-      - Décrire l'univers pété et le mettre en relation avec les jeux du langage
-    - ... qui finit par devenir inquiétant
-      - intrusion de différents éléments inquiétants (citer des exemples)
-      - indifférence devant la mort et la souffrance
+  - La fantaisie verbale crée un univers décalé et étrange
+    - Décrire l'univers pété et le mettre en relation avec les jeux du langage
+  - ... qui finit par devenir inquiétant
+    - intrusion de différents éléments inquiétants (citer des exemples)
+    - indifférence devant la mort et la souffrance
 
 
 
@@ -290,28 +290,28 @@
 #### Structure (niquée) de la LA + arguments
 
 1. Une fable naïve teintée de fantaisie
-    - Un récit aux allures de fable
-      - histoire complète avec un schéma isolé du récit (point de départ + aboutissement)
-      - le chat et la souris (animaux personnifiés) sont les personnages principaux du texte
-    - ... mais une fable détournée
-      - Rapport inhabituel des deux protagonistes
-        - indifférence du chat qui refuse de tuer la souris
-        - incompréhension du chat par rapport à la demande de la souris
-        - il s'y résout par compassion car il ne veut pas qu'elle souffre
-        - rapport prédateur/proie renversé
-      - Dénouement non explicite
-        - Pas de morale
-        - Libre-arbitre du lecteur
+  - Un récit aux allures de fable
+    - histoire complète avec un schéma isolé du récit (point de départ + aboutissement)
+    - le chat et la souris (animaux personnifiés) sont les personnages principaux du texte
+  - ... mais une fable détournée
+    - Rapport inhabituel des deux protagonistes
+      - indifférence du chat qui refuse de tuer la souris
+      - incompréhension du chat par rapport à la demande de la souris
+      - il s'y résout par compassion car il ne veut pas qu'elle souffre
+      - rapport prédateur/proie renversé
+    - Dénouement non explicite
+      - Pas de morale
+      - Libre-arbitre du lecteur
 2. Le mélange des registres crée la fantaisie du texte
-    - Une situation pathétique -> petite souris, fragile mais déterminée à mourir
-    - Le registre tragique 
-      - mort plus suggérée que présente
-      - tragique réinventé car la gravité est teintée d'une pointe de fantaisie plus légère
-    - L'humour noir, politesse du désespoir
-      - dédramatise la mort de la souris
-      - contraste entre langage familier et solennité du moment
-      - pas d'effet déclamatoire ou de supplication
-      - humour de la réplique de la souris avec le requin -> la mort arrive gaiement
+  - Une situation pathétique -> petite souris, fragile mais déterminée à mourir
+  - Le registre tragique 
+    - mort plus suggérée que présente
+    - tragique réinventé car la gravité est teintée d'une pointe de fantaisie plus légère
+  - L'humour noir, politesse du désespoir
+    - dédramatise la mort de la souris
+    - contraste entre langage familier et solennité du moment
+    - pas d'effet déclamatoire ou de supplication
+    - humour de la réplique de la souris avec le requin -> la mort arrive gaiement
 
 
 

@@ -11,7 +11,7 @@
 - T1 - Mme de La Fayette, La princesse de Clèves (1678)
 - T2 - Choderlos de Laclos, *Les liaisons dangereuses* (1782)
 - T3 - Maupassant, Une vie (1883), chapitre VI (extrait)
-- T4 - Marguerite Duras, L'amant, 1981, extrait ("La scène de rencontre")
+- T4 - Marguerite Duras, L'amant, 1984, extrait ("La scène de rencontre")
 
 #### Textes et documents complémentaires
 
@@ -215,6 +215,82 @@
     - champ lexical de l'apparence
   - Une héroïne révoltée ?
     - Elle remet en question le statut des femmes mais les accuse d'en être responsable
+
+
+
+#### T3 - Maupassant, Une vie (1883), chapitre VI (extrait)
+
+##### Problématique
+
+- Comment ce texte montre-t-il la désillusion de l'héroïne ?
+
+##### Structure (niquée) de LA + arguments
+
+1. Une héroïne en pleine introspection qui se souvient du bonheur passé
+  - Un récit qui épouse les mouvements de la conscience de Jeanne
+    - Focalisation interne
+    - Verbes de perception
+    - Discours indirect libre
+  - Un moment de lucidité
+    - Paraphrase
+    - Passé simple -> action soudaine
+    - Insistance sur "plus rien à faire", l'ennui qui attend Jeanne
+    - Introspection de Jeanne
+      - Champ lexical de l'espoir et de l'attente -> illusion d'un conte de fées
+      - Opposition des illusions et de la rapidité de la rencontre amoureuse
+  - Le bonheur perdu exprimée à travers l'évocation lyrique de la nature au printemps
+    - Cela forme un tableau -> jeu sur la lumière (ensoleillé) et les couleurs, les mouvements
+2. Une héroïne en pleine désillusion
+  - L'immobilité du temps et le sentiment de clôture -> citer des exemples + oxymore
+  - Disparition d'un temps ouvert sur l'avenir avec au contraire immobilisation du temps (gradation des adverbes de temps + sens des verbes)
+  - Un paysage état d'âme 
+    - Le présent = nature triste
+    - Champ lexical de la maladie et de la mort
+    - Personnification des éléments de la nature
+  - Expression des regrets : le registre élégiaque
+    - anaphore du "même" -> romantisme
+    - tournure élégiaque
+    - plainte silencieuse derrière la nature
+
+
+
+#### T4 - Marguerite Duras, L'amant, 1984, extrait ("La scène de rencontre")
+
+##### Problématique
+
+- En quoi cette scène de première rencontre est-elle originale ?
+
+##### Structure (niquée) de LA + arguments
+
+1. Une scène de rencontre conventionnelle
+  - Les éléments caractéristiques de la scène de rencontre
+    - La beauté des personnages
+    - Le jeu des regards
+    - Coup de foudre (aspect presque irréel de la scène)
+    - Répercussions physiques (tremblements) -> Ecume des jours
+    - Le hasard (il est celui qui passait le Mékong ce jour là en direction de Saigon)
+  - Une scène de séduction placée sous le signe de la banalité mais qui réussit
+    - Des étapes
+    - Homme avec attitude de séducteur
+    - Banalité des paroles + clichés
+    - Ses compliments intéressent la jeune fille tard dans la scène et il y a un dialogue
+2. Une scène de rencontre originale
+  - L'originalité des protagonistes 
+    - Chez Marguerite
+      - Tenue excentrique
+      - Assurance étrange -> maturité (à 15 ans) -> image de jeune femme libre et indépendante
+    - Chez le chinois
+      - On pense tout d'abord que c'est un séducteur (homme élégant, limousine, etc)
+      - Timidité
+      - Répercussions physique (stress)
+  - des personnages que tout oppose, en décalage avec leur milieu
+    - transgression ethnique
+    - transgression sociale
+  - Une scène placée sous le signe de la distance
+    - écriture originale -> nouveau roman
+    - anonymat mystérieux -> les personnages ne sont pas nommés
+    - distance entre le lecteur et les personnages -> focalisation externe
+    - écriture simple et familière avec un caractère presque cinématographique
 
 
 

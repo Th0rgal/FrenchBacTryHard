@@ -298,7 +298,7 @@
 
 
 
-### Séquence 5
+### Séquence 2
 
 #### T1 - Victor Hugo, "Discours sur la misère", (extrait) 1849
 
@@ -350,13 +350,66 @@
     - La jouissance de Voltaire se base sur des plaisirs -> répétition du mot plaisirs, plaisir sensuel
     - Le bonheur de Voltaire passe donc par les sensations et les plaisirs matériels -> exemplifier
     - éloge du superflu et de l'excès -> "le superflu, chose très nécessaire" -> paradoxe très astucieux
-  2. Un poème critique révélateur des lumières
+2. Un poème critique révélateur des lumières
   - L'éloge paradoxale du siècle présent
     - âge de fer > or dans la conception de Voltaire != religion
     - chiasme
   - ... des progrès qu'il autorise
     - éloge du progrès qui lui permet de profiter encore plus de la vie
     - accumulation de noms de ville et de pays -> montrer que les plaisir sont démultipliés
+  - La critique des mythes
+    - L'âge d'or
+      - Il critique et dévalorise l'âge d'or de x manières (citer des exemples comme la formule ironique par laquelle Voltaire affirme sa mise à distance "regrettera qui veut le bon vieux temps" ou "nos pauvres docteurs")
+    - La critique du mythe biblique
+      - Il évoque nos bons aïeux en remettant en cause leur innocence (l'innocence est en fait un dénument et une ignorance -> ils n'avaient rien), c'est donc par ignorance et non pas par vertu que les anciens ne jouissaient d'aucun plaisirs
+  - La critique du discours religieux
+    - Ambiguïté de la formule "nos bons aïeux" -> on ne sait pas s'il parle de nos ancêtres ou d'Adam et Ève, donc Voltaire associe l'âge d'or (mythe païen) et le mythe de la génèse et quand il dévalorise l'un, il dévalorise l'autre
+    - Valorisation bien peu chrétienne d'un "temps profane" avec mise en valeur de "profane". Les biens sources de plaisir qui charment l'auteur sont placés au dessus des biens spirituels pronés par l'église.
+    - Humour et satyre dans l'idée que le vin et le commerce ont réussi là ou les saintes croisades ont échoué
+
+
+
+#### T3 - Michel Tournier, "La fin de Robinson Crusoé", (nouvelle en intégralité), Le Coq de bruyère, 1978
+
+##### Problématique
+
+- En quoi l'histoire de Robinson racontée dans cette nouvelle est-elle singulière ?
+
+##### Structure (niquée) de LA + arguments
+
+1. L'invention d'une suite originale à l'histoire de Robinson
+  - La reprise des données de l'histoire originelle sous forme d'analepse et de sommaire
+    - C'est un résumé de l'action
+    - Cela s'oppose aux scènes du début et de la fin (temps principal de l'action)
+  - Une première originalité : un narrateur interne authentifie l'histoire, commente les faits et oriente notre lecture
+    - Effet de réel, rend l'histoire plus proche
+    - Commente l'histoire -> oriente notre lecture & notre interprétation
+      - Il donne sa version de l'histoire -> aventure exemplaire et navrante -> portée générale
+      - Commente le retour -> démêle le vrai de faux
+  - L'invention d'une suite qui achève l'histoire
+    - Voir le titre
+    - Scène au début et à la fin du texte, temps principal de la narration -> montre Robinson en homme déchu + effet de boucle
+      - Enfermement de Robinson dans son obsession
+      - Le présent malheureux enferme le passé heureux
+2. Une réécriture qui donne une dimension nouvelle au personnage de Robinson
+  - Un personnage brisé
+    - Un homme brisé -> "L'ivrogne" est la première caractérisatrion du héros, il est la risée des autres
+    - Un homme désespéré = registre pathétique -> champ lexical de la tristesse et du désespoir
+    - Un homme soumis à la dégradation du temps qui passe + le destin -> impuissance du héros = registre tragique
+  - La lente déchéance de Robinson
+    - Premier retour : vie ordinaire et heureuse en apparence
+    - Métaphore du ferment en vers qui ronge
+    - Départ/fuite de vendredi -> accélère la déchéance
+    - Deuxième retour : déchéance accomplie (ligne 92)
+3. La portée philosophique du texte
+  - Le symbolisme de l'île
+    - Trois passages où l'île est évoquée -> l'île, jardin paradisiaque & lieu du bonheur accompli
+    - La vie en Angleterre -> antithèses par rapport à l'île
+  - Le personnage du sage et la leçon de vie finale
+    - Le vieux timmonier -> connotations
+    - Le bonheur est éphémère, il est vain d'essayer de le retrouver
+    - Le thème du passage du temps -> tout vieilli
+
 
 
 ### Séquence 5

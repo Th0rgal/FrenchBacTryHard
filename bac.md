@@ -300,6 +300,67 @@
 
 ### Séquence 5
 
+#### T1 - Victor Hugo, "Discours sur la misère", (extrait) 1849
+
+##### Problématique
+
+- Qu'est-ce qui fait la force argumentative de ce discours ?
+
+##### Structure (niquée) de LA + arguments
+
+1. Un réquisitoire **efficace qui dénonce la misère** et les hommes politiques qui ne la combattent pas
+  - Forte implication de l'orateur et de l'auditoire
+    - Marques de la première personne et anaphore de "je dis que"
+    - Il prend à parti les députés en s'adressant directement à eux en tant qu'individus ou bien dans leur globalité pour les associer à son argumentation
+    - L'adhésion de l'auditoire est soulignée par les réactions du public
+  - Un discourd politique accusateur et plein d'indignation
+    - Ce discours est un réquisitoire envers l'inertie des politiques au pouvoir, registre polémique (exclamations, formules chocs, antithèse l 28-29 qui réduit à néant l'action passée des députés)
+    - Il condamne une situation intolérable via des phrases négatives (premier paragraphe), l'anaphore de "vous n'avez rien fait" qui montre la négligence et la fermeture d'esprit des politiques
+2. Ce discours est aussi un **plaidoyer en faveur de la justice sociale**
+  - Emouvoir l'auditoire pour le faire réagir
+    - Registre pathétique (avec les exemples et l'anadiplose)
+    - Champ lexical de la souffrance physique et morale
+    - Valorisation du peuple pour rendre encore plus inadmissible la misère
+  - Une argumentation fondée en raison
+    - Antithèse entre de tels faits et un pays civilisé -> souligne la contradiction entre l'idée de civilisation et la réalité sordide de la misère
+    - Gradation ascendante entre "des torts envers l'homme" et "des crime envers dieu"
+    - Opposition "esprit de révolution" et "souffrance publique"
+  - L'exhortation à abolir la misère
+    - La maxime finale est amenée après une argumentation cohérente et caresse les députés dans le sens du poil en leur montrant ce qu'ils ont déjà été capables de faire dans le passé (parallélisme)
+    - Personnification de l'assemblée : il invite les députés à ne faire qu'un
+    - Mise en avant de la notion de progrès via la métaphore de la marche
+
+
+
+#### T2 - Voltaire, " Le Mondain", (vers 1 à 43), 1736
+
+##### Problématique
+
+- En quoi consiste le bonheur selon Voltaire d'après ce poème ?
+
+##### Structure (niquée) de LA + arguments
+
+1. L'éloge du bonheur à travers un hymne au plaisir
+  - Un poème lyrique au ton enthousiaste qui favorise la complicité avec le lecteur
+    - Le lyrisme apparait à travers l'utilisation des pronoms -> expression directe des sentiments de Voltaire qui s'implique dans son poème mais essaye aussi d'impliquer les lecteurs (il passe du "je" au "nous")
+    - Le lyrisme apparait aussi à travers les types de phrase : phrase exclamative et interrogative : il apostrophe son auditoire
+    - A travers le lexique des sentiments : citer des exemples
+    - La musicalité 
+  - L'éloge d'un plaisir basé sur les sens et la jouissance de biens multiples
+    - La jouissance de Voltaire se base sur des plaisirs -> répétition du mot plaisirs, plaisir sensuel
+    - Le bonheur de Voltaire passe donc par les sensations et les plaisirs matériels -> exemplifier
+    - éloge du superflu et de l'excès -> "le superflu, chose très nécessaire" -> paradoxe très astucieux
+  2. Un poème critique révélateur des lumières
+  - L'éloge paradoxale du siècle présent
+    - âge de fer > or dans la conception de Voltaire != religion
+    - chiasme
+  - ... des progrès qu'il autorise
+    - éloge du progrès qui lui permet de profiter encore plus de la vie
+    - accumulation de noms de ville et de pays -> montrer que les plaisir sont démultipliés
+
+
+### Séquence 5
+
 #### T1 - Incipit
 
 ##### Problématique
@@ -324,7 +385,7 @@
     - Un portrait plus ébauché que complet
     - Inconsistance renforcée par l'inaction du personnage : "le reste du temps il dormait" (l.19)
     - Seulement occupé à des relations sociales qui semblent superficielles
-  - ** univers régi par des lois étranges, différentes du nôtre**
+  - **Univers régi par des lois étranges, différentes du nôtre**
     - Citer des exemples de choses étranges
   - **La fantaisie du langage au service d'un effet comique et parodique**
     - Utilisation excessive des compléments du nom et adjectifs -> jeu avec la langue

@@ -141,10 +141,6 @@
 
 
 
-
-
-
-
 ## La famosa "bouillie d'informations à recracher"
 
 
@@ -411,6 +407,7 @@
     - Le thème du passage du temps -> tout vieilli
 
 
+
 ### Séquence 3
 
 #### T1 - Le portrait de Dom Juan
@@ -500,11 +497,12 @@
     - métaphore+ hyperboles -> démesure et mégalomanie de Dj
 
 
+
 #### T3 - La scène du pauvre
 
 ##### Problématique
 
--
+- Pas de problématique
 
 ##### Structure (niquée) de LA + arguments
 
@@ -573,6 +571,7 @@
     - Champ lexical tranquilité et bien-être -> antithèse avec statut instable libertin
 
 
+
 ### Séquence 4
 
 #### T1 - Ma Bohème
@@ -586,6 +585,7 @@
 1. La dimension autobiographique du poème: l'errance adolescente
   - Un vagabondage où l'indétermination domine   
     - Titre -> voyage sans itinéraire précis
+
 
 
 ### Séquence 5
@@ -682,6 +682,3 @@
     - contraste entre langage familier et solennité du moment
     - pas d'effet déclamatoire ou de supplication
     - humour de la réplique de la souris avec le requin -> la mort arrive gaiement
-
-
-

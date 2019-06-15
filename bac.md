@@ -411,6 +411,182 @@
     - Le thème du passage du temps -> tout vieilli
 
 
+### Séquence 3
+
+#### T1 - Le portrait de Dom Juan
+
+##### Problématique
+
+- En quoi cette scène propose-t-elle un double portrait?
+
+##### Structure (niquée) de LA + arguments
+
+1. Le portrait (péjoratif) de Dom Juan
+  - L'impie: un libertin de pensée
+    - Accumulation de termes qui renvoient à l'impiété
+    - Accumulation "Ciel/Enfer/loup garou" -> négation de toute croyance
+    - Oxymore "billevesées tout ce que nous croyons" -> réduit à néant ce que les gens pensent
+  - Le débauché: un libertin de moeurs
+    - Animalisation de Dom Juan -> citer exemples et déshumanisation
+    - Champ lexical de la chasse + accumulation -> "boulimie des femmes" et montre Dom Juan comme un prédateur
+    - Dom Juan ne respecte pas le mariage (citer exemples) -> Dom Juan = séducteur, manipulateur, infidèle
+  - Le grand seigneur
+    - Sganarelle montre que DJ abuse de ses privilèges poue être libertin
+    - Son pouvoir crée bcp peur chez Sganarelle
+    - oxymore "grand seigneur méchant homme"-> résume Dom Juan
+2. Le portrait indirect de Sganarelle en valet ridicule
+  - Un être crédule qui défend la foi
+    - Il défend la foi -> dénigre attitude libertine de DJ, invoque le "courroux du Ciel"
+    - Ridicule par sa crédulité 
+      - Ne fait pas la différence entre foi et superstition 
+      - accumulation -> énumère sans discernement ennemis du christianisme
+  - Un valet qui fait le pédant et se montre ridicule
+    - étale une certaine culture (exemples: inter nos/ Sardanapale et Epicure)
+    - Se compare à un peintre qui fait un portrait de son maître
+    - Mais Sganarelle est quelqu'un du peuple -> propos tournent au ridicule
+      - langage familier, antithèses faciles et grossières 
+      - hyperboles -> exagère le trait  
+  - Un valet poltron qui a peur d'un maître qui le fascine
+    - Antithèse entre assurance pendant le portrait de DJ et sa crainte pour lui (voir fin du  texte) 
+    - Fascination pour Dom Juan: "ce serait un chapitre à durer jusques au soir" -> il en fait un être d'exception (même dans le négatif)
+    - Impossibilité de finir le portrait de DJ
+
+
+
+#### T2 - L'éloge de l'inconstance
+
+##### Problématique
+
+- Qu'est-ce qui rend particulièrement convaincant cet éloge de l'inconstance?
+
+##### Structure (niquée) de LA + arguments
+
+1. Un brillant plaidoyer en faveur de l'infidélité
+  - Une conception personnelle présentée comme vérité générale
+    - DJ s'adresse à Sganarelle-> contrecarrer thèse de Sganarelle mais que dans la première phrase
+    - Semble emporté par son discours dans lequel il justifie sa conduite et expose conception de l'amour 
+    - pronoms de la 1ère personne ->Dj prend position et décrit son penchant pour les femmes
+    - Pronoms "on" et "nous" -> caractère général de sa conception de l'amour
+    - alternance "je" et "nous" -> son opinion est valable pour la plupart des hommes
+  - La progression sans faille d'un discours abilement mené (discours en étapes)
+    - 1ère étape: le rejet de la fidélité: 
+      - question rhétorique -> renversement des valeurs et des rôles 
+      - antiphrase qui renforce mépris pour la fidélité 
+    - 2ième étape: exposition de sa propore position 
+      - Phrases déclaratives avec alternance affirmations et négations
+      - Maxime se détache "tout le plaisir de l'amour est dans le changement" ->définition du donjuanisme
+    - 3ième étape: retour aux généralités
+      - période oratoire avec une série de compléments -> différentes phases de la stratégie pour séduire et le plaisir qui en découle pour séducteur
+    - 4ième étape: agrandissement de la vision
+      - Conclusion où DJ se compare à Alexandre -> soif inépuisable de conquêtes
+      - Plus d'avantages et de plaisirs quand on cède au libertinage et à l'inconstance   
+2. Une conception de l'amour surprenante: un éloge paradoxal
+  - Le rejet de la fidélité comme attitude immorale
+    - Oxymore "faux honneur" -> définit la fidélité, donne raison à Sganarelle ("grand seigneur méchant homme")
+    - Métaphore filée dévalorisante qui associe mort et sommeil -> fidélité= mort sentimentale 
+  - L'inconstance: une loi naturelle à laquelle obéir
+    - Champ lexical du droit et de la justice ->  beauté des femmes et conquête amoureuse
+    - Inversion des rôles: femme= vainqueur et homme=victime/vaincu
+    - Métonymies -> réduisent femmes au rang de séductrices
+    - Dj se pose en victime de la beauté des femmes mais aussi en conquérant -> antithèse
+3. Le portrait du séducteur en action en proie à un désir insatiable 
+  - La force inépuisable du désir: un homme soumis à un désir insatiable
+    - désir qui intéresse DJ et pas satisfaction du désir 
+    - Dès que conquête faite, il faut se tourner vers une autre, ne supporte pas d'être limité dans ses désirs
+      - oxymore entre "arrêter" et "impétuosité" + hyperboles -> caractère insatiable  
+  - La conquête amoureuse comme affirmation de la liberté et de la démesure
+    - métaphore et champ lexical de la bataille -> suit les détours de la stratégie de séducteur
+    - "bataille de l'amour" (citer exemples) -> augmentation prix et plaisir de la victoire
+    - métaphore+ hyperboles -> démesure et mégalomanie de Dj
+
+
+#### T3 - La scène du pauvre
+
+##### Problématique
+
+-
+
+##### Structure (niquée) de LA + arguments
+
+1. la remise en cause de l'aumône
+  - L'impie: un libertin de pensée
+    - Accumulation de termes qui renvoient à l'impiété
+    - Accumulation "Ciel/Enfer/loup garou" -> négation de toute croyance
+    - Oxymore "billevesées tout ce que nous croyons" -> réduit à néant ce que les gens pensent
+  - Le débauché: un libertin de moeurs
+    - Animalisation de Dom Juan -> citer exemples et déshumanisation
+    - Champ lexical de la chasse + accumulation -> "boulimie des femmes" et montre Dom Juan comme un prédateur
+    - Dom Juan ne respecte pas le mariage (citer exemples) -> Dom Juan = séducteur, manipulateur, infidèle
+  - Le grand seigneur
+    - Sganarelle montre que DJ abuse de ses privilèges poue être libertin
+    - Son pouvoir crée bcp peur chez Sganarelle
+    - oxymore "grand seigneur méchant homme"-> résume Dom Juan
+2. Le portrait indirect de Sganarelle en valet ridicule
+  - Un être crédule qui défend la foi
+    - Il défend la foi -> dénigre attitude libertine de DJ, invoque le "courroux du Ciel"
+    - Ridicule par sa crédulité 
+      - Ne fait pas la différence entre foi et superstition 
+      - accumulation -> énumère sans discernement ennemis du christianisme
+  - Un valet qui fait le pédant et se montre ridicule
+    - étale une certaine culture (exemples: inter nos/ Sardanapale et Epicure)
+    - Se compare à un peintre qui fait un portrait de son maître
+    - Mais Sganarelle est quelqu'un du peuple -> propos tournent au ridicule
+      - langage familier, antithèses faciles et grossières 
+      - hyperboles -> exagère le trait  
+  - Un valet poltron qui a peur d'un maître qui le fascine
+    - Antithèse entre assurance pendant le portrait de DJ et sa crainte pour lui (voir fin du  texte) 
+    - Fascination pour Dom Juan: "ce serait un chapitre à durer jusques au soir" -> il en fait un être d'exception (même dans le négatif)
+    - Impossibilité de finir le portrait de DJ
+
+
+#### T4 - L'éloge de l'hypocrisie 
+
+##### Problématique
+
+- Quels sont les enjeux majeurs de cette scène?
+
+##### Structure (niquée) de LA + arguments
+
+1. La critique de la société
+  - Dénonciation de l'hypocrisie qui règne dans la société dans un discours à valeur générale
+    - Pronom indéfini "on" et "chacun"-> constat accablant sur la société de son époque (Molière s'exprime au travers de son personnage)
+    - Champs lexicaux (paraître, théâtre, traitrise/piège) -> société=spectacle de théâtre, jeu de masques
+    - Métaphore du vêtement -> l'hypocrisie protège du regard et du jugement négatif
+    - Personnification de l'hypocrisie -> personnage puissant qui règne dans la société de l'époque
+  - Dénonciation de la complaisance envers les hypocrites
+    - Tolérance de l'hypocrisie -> mise en avant par propositions subordonnées d'opposition
+    - Antithèses et hyperboles -> société globalement corrompue et qui ne punit pas les hypocrites
+    - Ton polémique accusant les dévots qui protègent les hypocrites -> champ lexical de la religion
+  - Un renversement des valeurs: quand l'hypocrisie devient une vertu
+    - antithèses + paradoxes -> la vertu n'est qu'une apparence 
+    - Parallélisme entre la sagesse et l'hypocrisie -> la sagesse conduit à accepter le vice, antithèse avec le comportement qu'un chrétien doit avoir
+2. Le projet de Dom Juan: jouer la comédie de la vertu pour rester libertin en toute impunité
+  - Dom Juan décrit sa conduite future de faux dévot
+    - Passage "ils" à "je" ->DJ se rallie à la pratique générale
+    - Dernière phrase= sorte de morale "immorale" ->profiter des faiblesses des hommes= forme de sagesse pragmatique
+  - Le portrait-type de l'hypocrite
+    - Portrait physique -> 3 éléments rappelant Tartuffe ("quelque baissement de tête", "soupir mortifié","deux roulements d'yeux"), prendre le masque du dévot= chose très facile
+    - Portrait moral à partir de "je m'érigerai" ->personnage puissant et impitoyable sous tête d'ange (voir vocabulaire de la violence et du pouvoir de vengeance)
+    - Dénonciation de l'attitude des dévots qui font tout le mal qu'ils peuvent sous le couvert de la religion
+  - L'hypocrisie comme refuge sûr et confortable
+    - Avantages d'être hypocrite -> on fait ce que l'on veut en étant protégé
+    - Champ lexical tranquilité et bien-être -> antithèse avec statut instable libertin
+
+
+### Séquence 4
+
+#### T1 - Ma Bohème
+
+##### Problématique
+
+- Comment l'auteur mêle-t-il le thème de l'errance et de la poésie?
+
+##### Structure (niquée) de la LA + arguments
+
+1. La dimension autobiographique du poème: l'errance adolescente
+  - Un vagabondage où l'indétermination domine   
+    - Titre -> voyage sans itinéraire précis
+
 
 ### Séquence 5
 

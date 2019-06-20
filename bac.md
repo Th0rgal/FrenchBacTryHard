@@ -584,8 +584,30 @@
 
 1. La dimension autobiographique du poème: l'errance adolescente
   - Un vagabondage où l'indétermination domine   
-    - Titre -> voyage sans itinéraire précis
-
+    - Titre -> voyage sans itinéraire précis + "ma" -> il se réaproprie thème bohème
+    - Champ lexical du voyage et de l'errance
+    - 2occurences verbe "aller" -> mise en valeur du déplacement car pas de CCL
+  - Le rôle primordial de la nature dans cette errance: une nature aimante et protectrice
+    - communion avec la nature -> sensations heureuses
+      - il dort à la belle étoile
+      - possessifs -> complicité avec les éléments de la nature
+      - vocabulaire mélioratif -> bons moments passés dans la nature
+  - Un dépouillement synonyme de liberté
+    - Evocation pauvreté (citer exemples) -> absence de contraintes et découverte liberté
+    - Pauvreté= mode de vie choisi par RImbaud -> voir def bohème  
+2. Le pouvoir transfigurateur de la poésie 
+  - Un vagabond poète et céleste
+    - Rimbaud= Petit Poucet -> ce n'est pas un abandon mais une fuite du domicile, recherche de territoires nouveaux -> cf Ulysse from Bagdad
+    - Création poétique prend son origine dans visions du poète -> voir sous-titre
+  - Une errance créatrice qui montre le pouvoir de la poésie
+    - Champ lexical de la poésie -> lie vagabondage et poésie
+    - "féal"+"Muse" -> la poésie= quête infinie 
+    - comparaison chaussures avec lyres (mythe d'Orphée) -> poésie permet de transformer objet trivial en objet poétique -> donne plus de beauté à la réalité banale 
+  - La recherche d'une nouvelle poésie
+    - sonnet libertin
+    - autodérision avec parodie du lyrisme
+    - polysémie du mot "pied" -> syllabe d'un vers ou membre
+    - dissymétrie dans le rythme de l'alexandrin -> rythme saccadé, irrégulier   
 
 
 ### Séquence 5

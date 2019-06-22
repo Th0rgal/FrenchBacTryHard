@@ -655,7 +655,7 @@
     - Il semble raconter un rêve ayant des similitudes avec une rencontre amoureuse
     - Parallèle entre la progression de la narration et de la lumière du soleil levant
       - Exemples -> Strophe 2 : la nuit domine (statisme des éléments), Strophe 3 -> faible apparition des premières lueurs du jour, Strophe 4 -> la lumière atteint les parties hautes du bois, Strophe 5 -> la lumière s'étale sur tout le paysage
-  - Récit d'un itinéraire amenant la poète à la ville 
+  - Récit d'un itinéraire amenant le poète à la ville 
     - via les verbes de mouvement + les indices spatiaux
     - Cet itinéraire s'achève avec le réveil du poète : c'était bien un rêve
 

@@ -309,7 +309,7 @@
     - Marques de la première personne et anaphore de "je dis que"
     - Il prend à parti les députés en s'adressant directement à eux en tant qu'individus ou bien dans leur globalité pour les associer à son argumentation
     - L'adhésion de l'auditoire est soulignée par les réactions du public
-  - Un discourd politique accusateur et plein d'indignation
+  - Un discours politique accusateur et plein d'indignation
     - Ce discours est un réquisitoire envers l'inertie des politiques au pouvoir, registre polémique (exclamations, formules chocs, antithèse l 28-29 qui réduit à néant l'action passée des députés)
     - Il condamne une situation intolérable via des phrases négatives (premier paragraphe), l'anaphore de "vous n'avez rien fait" qui montre la négligence et la fermeture d'esprit des politiques
 2. Ce discours est aussi un **plaidoyer en faveur de la justice sociale**
@@ -357,10 +357,10 @@
     - L'âge d'or
       - Il critique et dévalorise l'âge d'or de x manières (citer des exemples comme la formule ironique par laquelle Voltaire affirme sa mise à distance "regrettera qui veut le bon vieux temps" ou "nos pauvres docteurs")
     - La critique du mythe biblique
-      - Il évoque nos bons aïeux en remettant en cause leur innocence (l'innocence est en fait un dénument et une ignorance -> ils n'avaient rien), c'est donc par ignorance et non pas par vertu que les anciens ne jouissaient d'aucun plaisirs
+      - Il évoque nos bons aïeux en remettant en cause leur innocence (l'innocence est en fait un dénuement et une ignorance -> ils n'avaient rien), c'est donc par ignorance et non pas par vertu que les anciens ne jouissaient d'aucun plaisirs
   - La critique du discours religieux
     - Ambiguïté de la formule "nos bons aïeux" -> on ne sait pas s'il parle de nos ancêtres ou d'Adam et Ève, donc Voltaire associe l'âge d'or (mythe païen) et le mythe de la génèse et quand il dévalorise l'un, il dévalorise l'autre
-    - Valorisation bien peu chrétienne d'un "temps profane" avec mise en valeur de "profane". Les biens sources de plaisir qui charment l'auteur sont placés au dessus des biens spirituels pronés par l'église.
+    - Valorisation bien peu chrétienne d'un "temps profane" avec mise en valeur de "profane". Les biens sources de plaisir qui charment l'auteur sont placés au dessus des biens spirituels prônés par l'église.
     - Humour et satyre dans l'idée que le vin et le commerce ont réussi là ou les saintes croisades ont échoué
 
 
@@ -389,7 +389,7 @@
       - Le présent malheureux enferme le passé heureux
 2. Une réécriture qui donne une dimension nouvelle au personnage de Robinson
   - Un personnage brisé
-    - Un homme brisé -> "L'ivrogne" est la première caractérisatrion du héros, il est la risée des autres
+    - Un homme brisé -> "L'ivrogne" est la première caractérisation du héros, il est la risée des autres
     - Un homme désespéré = registre pathétique -> champ lexical de la tristesse et du désespoir
     - Un homme soumis à la dégradation du temps qui passe + le destin -> impuissance du héros = registre tragique
   - La lente déchéance de Robinson
@@ -423,12 +423,12 @@
     - Accumulation de termes qui renvoient à l'impiété
     - Accumulation "Ciel/Enfer/loup garou" -> négation de toute croyance
     - Oxymore "billevesées tout ce que nous croyons" -> réduit à néant ce que les gens pensent
-  - Le débauché: un libertin de moeurs
+  - Le débauché: un libertin de mœurs
     - Animalisation de Dom Juan -> citer exemples et déshumanisation
     - Champ lexical de la chasse + accumulation -> "boulimie des femmes" et montre Dom Juan comme un prédateur
     - Dom Juan ne respecte pas le mariage (citer exemples) -> Dom Juan = séducteur, manipulateur, infidèle
   - Le grand seigneur
-    - Sganarelle montre que DJ abuse de ses privilèges poue être libertin
+    - Sganarelle montre que DJ abuse de ses privilèges pour être libertin
     - Son pouvoir crée bcp peur chez Sganarelle
     - oxymore "grand seigneur méchant homme"-> résume Dom Juan
 2. Le portrait indirect de Sganarelle en valet ridicule
@@ -465,11 +465,11 @@
     - pronoms de la 1ère personne ->Dj prend position et décrit son penchant pour les femmes
     - Pronoms "on" et "nous" -> caractère général de sa conception de l'amour
     - alternance "je" et "nous" -> son opinion est valable pour la plupart des hommes
-  - La progression sans faille d'un discours abilement mené (discours en étapes)
+  - La progression sans faille d'un discours habilement mené (discours en étapes)
     - 1ère étape: le rejet de la fidélité: 
       - question rhétorique -> renversement des valeurs et des rôles 
       - antiphrase qui renforce mépris pour la fidélité 
-    - 2ième étape: exposition de sa propore position 
+    - 2ième étape: exposition de sa propre position 
       - Phrases déclaratives avec alternance affirmations et négations
       - Maxime se détache "tout le plaisir de l'amour est dans le changement" ->définition du donjuanisme
     - 3ième étape: retour aux généralités
@@ -511,7 +511,7 @@
     - Accumulation de termes qui renvoient à l'impiété
     - Accumulation "Ciel/Enfer/loup garou" -> négation de toute croyance
     - Oxymore "billevesées tout ce que nous croyons" -> réduit à néant ce que les gens pensent
-  - Le débauché: un libertin de moeurs
+  - Le débauché: un libertin de mœurs
     - Animalisation de Dom Juan -> citer exemples et déshumanisation
     - Champ lexical de la chasse + accumulation -> "boulimie des femmes" et montre Dom Juan comme un prédateur
     - Dom Juan ne respecte pas le mariage (citer exemples) -> Dom Juan = séducteur, manipulateur, infidèle
@@ -568,7 +568,7 @@
     - Dénonciation de l'attitude des dévots qui font tout le mal qu'ils peuvent sous le couvert de la religion
   - L'hypocrisie comme refuge sûr et confortable
     - Avantages d'être hypocrite -> on fait ce que l'on veut en étant protégé
-    - Champ lexical tranquilité et bien-être -> antithèse avec statut instable libertin
+    - Champ lexical tranquillité et bien-être -> antithèse avec statut instable libertin
 
 
 
@@ -584,7 +584,7 @@
 
 1. La dimension autobiographique du poème: l'errance adolescente
   - Un vagabondage où l'indétermination domine   
-    - Titre -> voyage sans itinéraire précis + "ma" -> il se réaproprie thème bohème
+    - Titre -> voyage sans itinéraire précis + "ma" -> il se réapproprie thème bohème
     - Champ lexical du voyage et de l'errance
     - 2occurences verbe "aller" -> mise en valeur du déplacement car pas de CCL
   - Le rôle primordial de la nature dans cette errance: une nature aimante et protectrice
@@ -594,7 +594,7 @@
       - vocabulaire mélioratif -> bons moments passés dans la nature
   - Un dépouillement synonyme de liberté
     - Evocation pauvreté (citer exemples) -> absence de contraintes et découverte liberté
-    - Pauvreté= mode de vie choisi par RImbaud -> voir def bohème  
+    - Pauvreté= mode de vie choisi par Rimbaud -> voir def bohème  
 2. Le pouvoir transfigurateur de la poésie 
   - Un vagabond poète et céleste
     - Rimbaud= Petit Poucet -> ce n'est pas un abandon mais une fuite du domicile, recherche de territoires nouveaux -> cf Ulysse from Bagdad
@@ -656,7 +656,7 @@
 
 1. Un incipit en **apparence traditionnel** : présentation du personnage principal dans un cadre banal et une activité quotidienne, la toilette
   - Un cadre banal décrit avec précision
-    - On évoque des objets usels (champs lexicaux) et/ou luxueux
+    - On évoque des objets usuels (champs lexicaux) et/ou luxueux
     - Souci de précision et d'exactitude -> mise en emphase des adjectifs et des compléments
   - Le personnage à sa toilette : un début in medias res et un portrait en actes
     - Impression d'un rituel avec un ordre précis

@@ -610,6 +610,40 @@
     - dissymétrie dans le rythme de l'alexandrin -> rythme saccadé, irrégulier   
 
 
+#### T2 - "Le Mal", Poésies, 1870
+
+##### Problématique
+
+- Que dénonce Rimbaud dans ce sonnet?
+
+##### Structure (niquée) de la LA + arguments
+
+1. La dénonciation de la guerre (= 2 premiers quatrains)
+  - Le champ lexical de la guerre + de la mort
+  - opposition 100 milliers d'homme et un tas fumant -> néant qui résulte de la guerre
+  - réification des hommes en tas fumant et personnification des armes à feu avec crachat
+  - opposition de la violence et de la mort avec la nature vivante et protectrice
+    - Cadre bucolique (voir le dormeur du val)
+    - Evocation lyrique de la nature
+  - contraste entre la nature et la guerre renforcé par les rimes
+  - points d'exclamations -> indignation et désolation du poète
+2. La satyre du pouvoir royal et de l'église
+  - L'accusation politique
+    - césure régulière qui sépare les soldats du roi
+    - la rencontre des rimes "mitraille" et "raille" -> mépris et supériorité du roi
+  - Une accusation plus religieuse = tercets
+    - Ton plus satyrique
+    - 1er tercet
+      - Champ lexical de la religion (brosse un portrait de l'église)
+      - Dieu réduit à un être méprisant et peu reconnaissant
+    - Enjambement strophique du premier tercet sur le deuxième avec l'image de l'endormissement et du réveil -> lien entre les deux tercets + dieu inactif qui devient carrément cupide
+    - 2nd tercet
+      - évocation des mères et de leurs angoisses -> relié aux quatrains + idée de la guerre liée au dieu
+      - Gros sous : cupidité de l'église -> indignation du poète
+
+
+
+
 ### Séquence 5
 
 #### T1 - Incipit

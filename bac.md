@@ -47,7 +47,7 @@
 
 #### textes et documents complémentaires
 
-- Les quatres âges de l'humanité, Ovide, Les Métamorphoses (Ier s. ap JC)
+- Les quatre âges de l'humanité, Ovide, Les Métamorphoses (Ier s. ap JC)
 - Le bonheur en chansons :
   - "La complainte du progrès", Boris VIAN, 1956
   - "Foule sentimentale", Alain SOUCHON, 1993
@@ -640,6 +640,41 @@
     - 2nd tercet
       - évocation des mères et de leurs angoisses -> relié aux quatrains + idée de la guerre liée au dieu
       - Gros sous : cupidité de l'église -> indignation du poète
+
+
+#### T3 - "Aube", Illuminations, 1886
+
+##### Problématique
+
+- Quelle aventure poétique décrit ce poème ?
+
+##### Structure (niquée) de la LA + arguments
+
+1. Le poème est le récit d'un rêve
+  - Le récit d'un moment singulier
+    - Il semble raconter un rêve ayant des similitudes avec une rencontre amoureuse
+    - Parallèle entre la progression de la narration et de la lumière du soleil levant
+      - Exemples -> Strophe 2 : la nuit domine (statisme des éléments), Strophe 3 -> faible apparition des premières lueurs du jour, Strophe 4 -> la lumière atteint les parties hautes du bois, Strophe 5 -> la lumière s'étale sur tout le paysage
+  - Récit d'un itinéraire amenant la poète à la ville 
+    - via les verbes de mouvement + les indices spatiaux
+    - Cet itinéraire s'achève avec le réveil du poète : c'était bien un rêve
+
+2. Un poète aux pouvoirs magiques
+  - Le poète réveille la nature peu à peu
+    - La formule "la première entreprise"
+    - Le participe présent "réveillant" qui montre que le poète est à l'origine de l'action
+    - Multiples personnifications de la nature : tout s'anime au passage du poète
+  - Le poète se rêve en démiurge
+    - Il fait comme si il était magicien
+    - Il s'imagine déshabiller la déesse métaphorisant l'aube
+
+3. Le récit d'une expérience ambiguë et presque vouée à l'échec
+  - Un désir de vivre insatiable
+    - Allégorie de l'aube en déesse (réf mythe de Daphnée et Apollon [Apollon -> Rimbaud])
+    - La fin du poème lie Rimbaud à l'Aube
+  - Une entreprise difficile vouée à l'échec
+    - "un peu" montre la difficulté
+    - La chute du poème est aussi une déconstruction
 
 
 

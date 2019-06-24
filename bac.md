@@ -502,46 +502,35 @@
 
 ##### Problématique
 
-- Pas de problématique
+- Quels sont les enjeux de cette scène ?
 
 ##### Structure (niquée) de LA + arguments
 
-1. la remise en cause de l'aumône
-  - L'impie: un libertin de pensée
-    - Accumulation de termes qui renvoient à l'impiété
-    - Accumulation "Ciel/Enfer/loup garou" -> négation de toute croyance
-    - Oxymore "billevesées tout ce que nous croyons" -> réduit à néant ce que les gens pensent
-  - Le débauché: un libertin de mœurs
-    - Animalisation de Dom Juan -> citer exemples et déshumanisation
-    - Champ lexical de la chasse + accumulation -> "boulimie des femmes" et montre Dom Juan comme un prédateur
-    - Dom Juan ne respecte pas le mariage (citer exemples) -> Dom Juan = séducteur, manipulateur, infidèle
-  - Le grand seigneur
-    - Sganarelle montre que DJ abuse de ses privilèges poue être libertin
-    - Son pouvoir crée bcp peur chez Sganarelle
-    - oxymore "grand seigneur méchant homme"-> résume Dom Juan
-2. Le portrait indirect de Sganarelle en valet ridicule
-  - Un être crédule qui défend la foi
-    - Il défend la foi -> dénigre attitude libertine de DJ, invoque le "courroux du Ciel"
-    - Ridicule par sa crédulité 
-      - Ne fait pas la différence entre foi et superstition 
-      - accumulation -> énumère sans discernement ennemis du christianisme
-  - Un valet qui fait le pédant et se montre ridicule
-    - étale une certaine culture (exemples: inter nos/ Sardanapale et Epicure)
-    - Se compare à un peintre qui fait un portrait de son maître
-    - Mais Sganarelle est quelqu'un du peuple -> propos tournent au ridicule
-      - langage familier, antithèses faciles et grossières 
-      - hyperboles -> exagère le trait  
-  - Un valet poltron qui a peur d'un maître qui le fascine
-    - Antithèse entre assurance pendant le portrait de DJ et sa crainte pour lui (voir fin du  texte) 
-    - Fascination pour Dom Juan: "ce serait un chapitre à durer jusques au soir" -> il en fait un être d'exception (même dans le négatif)
-    - Impossibilité de finir le portrait de DJ
+1. La remise en cause de l'aumône
+  - Contexte : être pauvre c'était la mode
+  - C'est pourquoi le pauvre lui demande un sous avec politesse. Don Juan lui dit que son avis est intéressé -> premier blasphème qui remplace la charité par un marché donnant donnant.
+  - Le pauvre rappelle qu'il est un représentant de dieu
+  - Don Juan lui montre qu'il devrait s'occuper d'abord de lui avant de prier pour les autres
+2. L'inutilité de la prière
+  - C'est une scène de confrontation car Don Juan feint l'ignorance et le pauvre lui rappelle son rôle
+  - Il désapprouve son mode et de vie et la façon de l'église de monnayer l'accès au ciel
+  - Désarmé par cette logique implacable le pauvre essaye de lui faire pitié en lui disant qu'il est encore plus pauvre
+  - Il attaque la religion directement (voir Rimbaud)
+3. La tentation du Louis d'or
+  - La provocation de Don Juan atteint son maximum quand il joue le diable tentateur pour tenter le pauvre après avoir montré l'inutilité des prières.
+  - La tentation s'apparente ici à un chantage odieux du point de vue du pauvre car le blasphème est puni par la loi.
+  - Don Juan réitère son marché et montre le Louis d'or puis lui met sous le nez avec sadisme
+  - Sganarelle participe maintenant à l'action mais sans le charisme de Don juan qu'il essaye d'imiter : il se fait un piètre défenseur de la religion.
+  - On ne sait pas si il le ramasse car il a refusé de blasphémer et si il le ramasse cela prouve que Don juan avait raison mais en même temps il a demandé la charité.
+
+
 
 
 #### T4 - L'éloge de l'hypocrisie 
 
 ##### Problématique
 
-- Quels sont les enjeux majeurs de cette scène?
+- Quels sont les enjeux majeurs de cette scène ?
 
 ##### Structure (niquée) de LA + arguments
 
@@ -579,7 +568,7 @@
 
 ##### Problématique
 
-- Comment l'auteur mêle-t-il le thème de l'errance et de la poésie?
+- Comment l'auteur mêle-t-il le thème de l'errance et de la poésie ?
 
 ##### Structure (niquée) de la LA + arguments
 
@@ -615,7 +604,7 @@
 
 ##### Problématique
 
-- Que dénonce Rimbaud dans ce sonnet?
+- Que dénonce Rimbaud dans ce sonnet ?
 
 ##### Structure (niquée) de la LA + arguments
 
